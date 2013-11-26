@@ -2,13 +2,13 @@
 
 Summary:	Linear Models for Microarray Data
 Name:		R-%{packname}
-Version:	3.14.1
+Version:	3.18.3
 Release:	1
 License:	Artistic 2.0
 Group:		X11/Applications
-URL:		http://www.bioconductor.org/packages/release/bioc/html/biomaRt.html
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	82e11a7ca0912249810daeb57dacfb3b
+# Source0-md5:	fa2e0149f4023719f418b315a5b3ea7e
+URL:		http://www.bioconductor.org/packages/release/bioc/html/limma.html
 BuildRequires:	R
 BuildRequires:	texlive-latex
 Requires:	R
